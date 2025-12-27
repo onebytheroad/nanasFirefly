@@ -32,7 +32,7 @@ export const siteConfig: SiteConfig = {
 	favicon: [
 		// 留空以使用默认 favicon
 		{
-			src: "/assets/images/favicon.ico", // 图标文件路径
+			src: "/nanasFirefly/assets/images/favicon.ico", // 图标文件路径
 			theme: "light", // 可选，指定主题 'light' | 'dark'
 			sizes: "32x32", // 可选，图标大小
 		},
@@ -45,7 +45,7 @@ export const siteConfig: SiteConfig = {
 	// { type: "image", value: "https://example.com/logo.png", alt: "Firefly Logo" }
 	navbarLogo: {
 		type: "image",
-		value: "/assets/images/LiuYingPure3.svg",
+		value: "/nanasFirefly/assets/images/LiuYingPure3.svg",
 		alt: "🍀",
 	},
 	navbarTitle: "Firefly", // 导航栏标题，可以设置为与 title 不同的值，如果不设置则使用 title
@@ -106,9 +106,9 @@ export const siteConfig: SiteConfig = {
 		// 背景图片配置
 		src: {
 			// 桌面背景图片
-			desktop: "/assets/images/d1.webp",
+			desktop: "/nanasFirefly/assets/images/d1.webp",
 			// 移动背景图片
-			mobile: "/assets/images/m3.webp",
+			mobile: "/nanasFirefly/assets/images/m3.webp",
 		},
 
 		// Banner模式特有配置
