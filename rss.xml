@@ -7,7 +7,7 @@
 &lt;p&gt;&lt;strong&gt;⭐Fuwari开源地址：&lt;a href=&quot;https://github.com/saicaca/fuwari&quot;&gt;https://github.com/saicaca/fuwari&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;::github{repo=&quot;CuteLeaf/Firefly&quot;}&lt;/p&gt;
 &lt;p&gt;::github{repo=&quot;saicaca/fuwari&quot;}&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://onebytheroad.github.io/Firefly/_astro/1.DMCZXhCl_ZTgIe5.webp&quot; alt=&quot;Firefly&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://onebytheroad.github.io/nanasFirefly/_astro/1.DMCZXhCl_Z1Kpxui.webp&quot; alt=&quot;Firefly&quot; /&gt;&lt;/p&gt;
 &lt;h2&gt;🚀 技术架构&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;静态站点生成&lt;/strong&gt;: 基于 Astro ，提供极快的加载速度和优秀的 SEO 优化&lt;/li&gt;
@@ -156,7 +156,7 @@ URL：&lt;code&gt;/posts/how-to-use-firefly-blog-theme&lt;/code&gt;&lt;/p&gt;
 &lt;li&gt;适合展示导航和分类等重要信息&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4&gt;布局结构&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;https://onebytheroad.github.io/Firefly/_astro/left.Dj5FqMR6_Z26nEcP.webp&quot; alt=&quot;左侧边栏布局&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://onebytheroad.github.io/nanasFirefly/_astro/left.Dj5FqMR6_nCWe4.webp&quot; alt=&quot;左侧边栏布局&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&amp;lt;!-- 此处可以插入左侧边栏布局截图 --&amp;gt;&lt;/p&gt;
 &lt;h4&gt;适用场景&lt;/h4&gt;
 &lt;ul&gt;
@@ -190,7 +190,7 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 &lt;li&gt;适合宽屏显示器&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4&gt;布局结构&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;https://onebytheroad.github.io/Firefly/_astro/both.irYNrlI2_yMK6A.webp&quot; alt=&quot;双侧边栏布局&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://onebytheroad.github.io/nanasFirefly/_astro/both.irYNrlI2_Z25SLWJ.webp&quot; alt=&quot;双侧边栏布局&quot; /&gt;&lt;/p&gt;
 &lt;h4&gt;适用场景&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;宽屏桌面端浏览&lt;/li&gt;
@@ -239,7 +239,7 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 &lt;li&gt;适合深度阅读&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4&gt;列表布局结构&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;https://onebytheroad.github.io/Firefly/_astro/left.Dj5FqMR6_Z26nEcP.webp&quot; alt=&quot;列表模式布局&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://onebytheroad.github.io/nanasFirefly/_astro/left.Dj5FqMR6_nCWe4.webp&quot; alt=&quot;列表模式布局&quot; /&gt;&lt;/p&gt;
 &lt;h4&gt;优点&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;✅ 视觉冲击力强，封面图吸引眼球&lt;/li&gt;
@@ -273,7 +273,7 @@ export const siteConfig: SiteConfig = {
 &lt;li&gt;适合快速浏览&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4&gt;网格布局结构&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&quot;https://onebytheroad.github.io/Firefly/_astro/grid.DcvHRxbE_Z1sXef9.webp&quot; alt=&quot;网格模式布局&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://onebytheroad.github.io/nanasFirefly/_astro/grid.DcvHRxbE_1j2cTg.webp&quot; alt=&quot;网格模式布局&quot; /&gt;&lt;/p&gt;
 &lt;h4&gt;优点&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;✅ 单屏显示更多文章&lt;/li&gt;
@@ -285,7 +285,7 @@ export const siteConfig: SiteConfig = {
 &lt;/ul&gt;
 &lt;h4&gt;瀑布流布局结构&lt;/h4&gt;
 &lt;p&gt;Firefly 的网格模式内置了智能瀑布流布局支持，解决了网格布局中因图文混合文章导致的卡片高度不一致导致的空白问题。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://onebytheroad.github.io/Firefly/_astro/masonry.BLmg9e3b_1zwG7B.webp&quot; alt=&quot;瀑布流布局&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://onebytheroad.github.io/nanasFirefly/_astro/masonry.BLmg9e3b_Z10yUVp.webp&quot; alt=&quot;瀑布流布局&quot; /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;智能排版&lt;/strong&gt;：采用 Z 字形分布（左右交替），严格保持文章的时间顺序。&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;消除空白&lt;/strong&gt;：通过绝对定位精确计算每个卡片的位置，让卡片紧贴上一行的卡片，消除垂直方向的空白间隙。&lt;/li&gt;
