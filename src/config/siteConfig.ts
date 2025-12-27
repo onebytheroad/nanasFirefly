@@ -32,7 +32,7 @@ export const siteConfig: SiteConfig = {
 	favicon: [
 		// 留空以使用默认 favicon
 		{
-			src: "/nanasFirefly/assets/images/favicon.ico", // 图标文件路径
+			src: "/assets/images/favicon.ico", // 图标文件路径
 			theme: "light", // 可选，指定主题 'light' | 'dark'
 			sizes: "32x32", // 可选，图标大小
 		},
@@ -45,14 +45,14 @@ export const siteConfig: SiteConfig = {
 	// { type: "image", value: "https://example.com/logo.png", alt: "Firefly Logo" }
 	navbarLogo: {
 		type: "image",
-		value: "/nanasFirefly/assets/images/LiuYingPure3.svg",
+		value: "/assets/images/LiuYingPure3.svg",
 		alt: "🍀",
 	},
 	navbarTitle: "Firefly", // 导航栏标题，可以设置为与 title 不同的值，如果不设置则使用 title
 	navbarWidthFull: false, // 全宽导航栏，导航栏是否占满屏幕宽度，true：占满，false：不占满
 
 	// 站点开始日期，用于统计运行天数
-	siteStartDate: "2025-01-01", // 请修改为你的站点实际开始日期，格式：YYYY-MM-DD
+	siteStartDate: "2025-12-25", // 请修改为你的站点实际开始日期，格式：YYYY-MM-DD
 
 	// bangumi配置
 	bangumi: {
@@ -99,9 +99,9 @@ export const siteConfig: SiteConfig = {
 
 	backgroundWallpaper: {
 		// 壁纸模式："banner" 横幅壁纸，"overlay" 全屏透明，"none" 纯色背景无壁纸
-		mode: "banner",
+		mode: "overlay",
 		// 是否允许用户通过导航栏切换壁纸模式，设为false可提升性能（只渲染当前模式）
-		switchable: true,
+		switchable: false,
 
 		// 背景图片配置
 		src: {
