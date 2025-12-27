@@ -36,7 +36,7 @@ import rehypeFigure from "./src/plugins/rehype-figure.mjs";
 export default defineConfig({
 	site: 'https://onebytheroad.github.io/nanasFirefly',
 
-	base: "/Firefly/",
+	base: "/nanasFirefly/",
 	trailingSlash: "always",
 	integrations: [
 		tailwind({
