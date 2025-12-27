@@ -34,7 +34,7 @@ import rehypeFigure from "./src/plugins/rehype-figure.mjs";
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://onebytheroad.github.io/Firefly',
+	site: 'https://onebytheroad.github.io/nanasFirefly',
 
 	base: "/Firefly/",
 	trailingSlash: "always",
