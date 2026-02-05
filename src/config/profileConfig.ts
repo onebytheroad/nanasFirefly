@@ -4,9 +4,9 @@ export const profileConfig: ProfileConfig = {
 	// 头像
 	avatar: "/assets/images/avatar.webp",
 	// 名字
-	name: "Firefly",
+	name: "雫",
 	// 个人签名
-	bio: "Hello, I'm Firefly.",
+	bio: "Hello, I'm na.",
 
 	// 链接配置
 	// 已经预装的图标集：fa6-brands，fa6-regular，fa6-solid，material-symbols，simple-icons
@@ -18,13 +18,13 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Bilibli",
 			icon: "fa6-brands:bilibili",
-			url: "https://space.bilibili.com/38932988",
+			url: "https://space.bilibili.com/299591423",
 			showName: false,
 		},
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/CuteLeaf",
+			url: "https://github.com/onebytheroad",
 			showName: false,
 		},
 		{
